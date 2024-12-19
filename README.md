@@ -2,7 +2,7 @@
 <h3 align="center">A passionate and results-driven Full Stack Developer with over 5 years of hands-on experience in crafting robust and scalable web applications.</h3>
 
 
-- 🔭 I’m currently working on [Ninja Warriors](https://ninjawarriorsmeta.com/)
+- 🔭 I’m currently working on [Cloud Kinetics](https://www.cloud-kinetics.com/)
 
 - 🌱 I’m currently learning **Project Management**
 
